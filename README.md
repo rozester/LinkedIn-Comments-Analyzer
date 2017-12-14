@@ -24,7 +24,7 @@ Extracting LinkedIn comments from any post and export it to Excel file
 
 4- Right click on that div and then press "Edit As HTML" and copy all contents
 
-5- Save these contents in a text file for example Comments.html and make sure that encoding is UTF-8
+5- Save these contents in a text file "Comments.html" and make sure that encoding is UTF-8
 
 6- Put this file inside the same directory with this python file "linkedin-comments-grabber.py"
 
