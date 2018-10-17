@@ -29,3 +29,5 @@ Extracting LinkedIn comments from any post and export it to Excel file
 6- Put this file inside the same directory with this python file "linkedin-comments-grabber.py"
 
 7- Excute linkedin-comments-grabber.py
+
+<img src="Sample - Blurred.png" />
